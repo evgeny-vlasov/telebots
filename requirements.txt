@@ -1,0 +1,17 @@
+# Web framework
+flask>=3.0
+
+# Telegram
+python-telegram-bot>=21.0
+
+# Database
+psycopg2-binary>=2.9
+pgvector>=0.3
+
+# LLM & embeddings
+anthropic>=0.40
+voyageai>=0.3
+
+# Utilities
+python-dotenv>=1.0
+requests>=2.32

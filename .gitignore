@@ -1,0 +1,29 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# KB can be large / sensitive — load from server, don't commit secrets
+# bots/*/knowledge_base/*.txt  # uncomment if KB files are sensitive

@@ -1,0 +1,32 @@
+# deploy/bot-template.service
+# systemd unit template for a telebots bot.
+# Copy to /etc/systemd/system/telebots-BOTNAME.service
+# Replace all <PLACEHOLDERS> before use.
+
+[Unit]
+Description=Telebots — <BOT_DISPLAY_NAME>
+After=network.target postgresql.service
+Requires=postgresql.service
+
+[Service]
+Type=simple
+User=chip
+Group=chip
+WorkingDirectory=/opt/telebots/bots/<BOTNAME>
+Environment="PATH=/opt/telebots/venv/bin"
+EnvironmentFile=/opt/telebots/.env
+ExecStart=/opt/telebots/venv/bin/python3 app.py
+Restart=always
+RestartSec=10
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=telebots-<BOTNAME>
+
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
