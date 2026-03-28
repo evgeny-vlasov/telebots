@@ -12,14 +12,14 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
 
 from flask import Flask
-from .config import Config
-from .prompts import build_system_prompt
-from .rag_config import TOP_K_CHUNKS, SIMILARITY_THRESHOLD
-from platform.claude_client import chat
-from platform.rag.retriever import retrieve, format_context
-from platform.telegram.webhook import make_webhook_blueprint
-from platform.database import get_cursor
-from .web import web_bp
+from bots.anglers.config import Config
+from bots.anglers.prompts import build_system_prompt
+from bots.anglers.rag_config import TOP_K_CHUNKS, SIMILARITY_THRESHOLD
+from telebots_platform.claude_client import chat
+from telebots_platform.rag.retriever import retrieve, format_context
+from telebots_platform.telegram.webhook import make_webhook_blueprint
+from telebots_platform.database import get_cursor
+from bots.anglers.web import web_bp
 
 
 def get_bot_db_id() -> int:

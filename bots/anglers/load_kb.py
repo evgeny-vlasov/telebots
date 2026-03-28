@@ -17,8 +17,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
 
 from bots.anglers.config import Config
 from bots.anglers.rag_config import CHUNK_SIZE, CHUNK_OVERLAP
-from platform.database import get_cursor
-from platform.rag.embedder import load_document, clear_bot_chunks
+from telebots_platform.database import get_cursor
+from telebots_platform.rag.embedder import load_document, clear_bot_chunks
 
 
 def get_or_create_bot_db_id() -> int:
@@ -28,8 +28,8 @@ def get_or_create_bot_db_id() -> int:
         if row:
             return row["id"]
         cur.execute(
-            "INSERT INTO bots (bot_id, bot_name) VALUES (%s, %s) RETURNING id",
-            (Config.BOT_ID, Config.BOT_NAME),
+            "INSERT INTO bots (bot_id, bot_name, port) VALUES (%s, %s, %s) RETURNING id",
+            (Config.BOT_ID, Config.BOT_NAME, Config.PORT),
         )
         return cur.fetchone()["id"]
 
@@ -59,7 +59,7 @@ def main():
             content=content,
             source=path.name,
             chunk_size=CHUNK_SIZE,
-            chunk_overlap=CHUNK_OVERLAP,
+            overlap=CHUNK_OVERLAP,
         )
         print(f"✓ {n} chunks")
         total += n
