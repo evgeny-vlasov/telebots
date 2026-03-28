@@ -1,0 +1,259 @@
+ES1 - Lakes, Reservoirs and Ponds |  |  |  |  |  |  |  |  |  |  |  |  | 
+Waterbody | Waterbody Detail | Season | Bait
+l = Bait
+except Bait
+fish allowed | WALL | NRPK | YLPR | LKTR | MNWH | RNTR | CTTR | BKTR | DLVR | Trout Total
+Aster Lake | 5-19-9-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Barnaby Lake | 32-4-3-W5 | OPEN JULY 16 TO OCT. 31 | Bait ban |  |  |  |  |  |  |  |  |  | 1 trout over 40 cm
+ | Tributaries and outlet | CLOSED ALL YEAR |  |  |  |  |  |  |  |  |  |  | 
+Bear Pond | 36-14-4-W5 | OPEN ALL YEAR | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 1 trout over 30 cm;
+0 ARGR
+Bearspaw Reservoir |  | OPEN ALL YEAR | l |  |  |  | 3 fish | 5 over
+30 cm |  |  |  |  | Other trout limit 1
+under 35 cm
+Big Iron Lake | 1-15-4-W5 | OPEN ALL YEAR | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 1 trout over 30 cm;
+0 ARGR
+Blairmore Water Supply
+(Unnamed) Reservoir | 34-7-4-W5 | CLOSED ALL YEAR |  |  |  |  |  |  |  |  |  |  | 
+Burns Lake | 17-19-7-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Burstall Lakes | All lakes; 16-21-10-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Carburn Park Pond | NE-23-23-1-W5 | OPEN ALL YEAR | Bait ban |  |  |  |  |  |  |  |  |  | 
+Carnarvon Lake | 30-16-6-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Chester Lake | 26-21-10-W5; Includes tributaries
+and outlet | OPEN JULY 1 TO OCT. 31 | Bait ban |  |  |  |  |  |  | 2 fish under
+30 cm |  | 2 fish | 
+Commonwealth Lake | Birdwood Lake; 29-21-10-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Crowsnest Lake |  | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish | 3 fish | 5 over
+30 cm |  |  |  |  | 5 trout
+ | Tributaries | OPEN JUNE 16 TO AUG. 31 | Bait ban |  |  |  |  | 5 over
+30 cm |  |  | 2 fish |  | Other trout 0
+ | Tributaries | OPEN SEPT. 1 TO OCT. 31 | Bait ban |  |  |  |  | 0 fish |  |  |  |  | 0 trout
+East Scarpe Lake | 13-3-3-W5 | OPEN ALL YEAR | l |  |  |  |  |  |  |  |  |  | 2 trout
+Emerald (Hart) Lake | SE-8-8-5-W5 | OPEN ALL YEAR | l |  |  |  | 3 fish | 3 over
+30 cm |  |  |  |  | 5 trout
+Fortress Lake | 6-22-9-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Galatea Lakes | Upper and lower; 13-22-10-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Gap Lake | SW 20-24-09-W5 | OPEN ALL YEAR | Bait ban |  |  |  |  | 5 over
+30 cm |  |  | 2 fish |  | Other trout 0
+Ghost Reservoir |  | OPEN ALL YEAR | Bait and bait
+fish allowed |  |  |  |  | 5 over
+30 cm |  |  |  |  | 5 trout; 0 CTTR
+Glenmore Reservoir |  | OPEN MAY 1 TO OCT. 31 | l |  | 3 fish | 15 fish |  | 5 over
+30 cm |  |  |  |  | 5 trout
+Headwall Lakes | Upper and lower; 19,30-21-9-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Hogarth Lakes | Upper, middle, lower; 21-21-10-W5 | OPEN ALL YEAR | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 1 trout over 40 cm
+Invincible Lake | 5-20-9-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Kids Can Catch Pond | 13-24-1-W5 | OPEN MAY 1 TO SEPT. 30 | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 0 trout
+Lake Of The Horns | 11-17-7-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+
+Legend: As examples, ‘3 over 63 cm’ indicates a possession and size limit of ‘3 fish each over 63 cm’ or ‘10 fish’ indicates a possession limit of 10 for that species of any size. An empty cell indicates the species is not likely present
+at that waterbody; however, if caught the default regulations for the Watershed Unit apply - unless the waterbody is stocked, in which case provincial put and take stocked lake regulations apply (see p. 16). SHL=Special Harvest
+Licence, BKTR = Brook Trout, BNTR=Brown Trout, BURB = Burbot, CISC = Cisco, CTTR = Cutthroat Trout, DLVR = Dolly Varden, GOLD = Goldeye, LKTR = Lake Trout, LKWH = Lake Whitefish, MNWH = Mountain Whitefish,
+NRPK = Northern Pike, RNTR = Rainbow Trout, SAUG = Sauger, TGTR = Tiger Trout, WALL = Walleye, YLPR = Yellow Perch. Regulation changes are highlighted blue. Waterbodies closed to angling are highlighted grey.
+ES1 - Lakes, Reservoirs and Ponds
+Waterbody Waterbody Detail Season Bait WALL NRPK YLPR LKTR MNWH RNTR CTTR BKTR DLVR Trout Total
+l = Bait
+except Bait
+fish allowed
+Aster Lake 5-19-9-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Barnaby Lake 32-4-3-W5 OPEN JULY 16 TO OCT. 31 Bait ban 1 trout over 40 cm
+Tributaries and outlet CLOSED ALL YEAR
+Bear Pond 36-14-4-W5 OPEN ALL YEAR Bait ban 3 fish 3 fish 15 fish 1 trout over 30 cm;
+0 ARGR
+Bearspaw Reservoir OPEN ALL YEAR l 3 fish 5 over Other trout limit 1
+30 cm under 35 cm
+Big Iron Lake 1-15-4-W5 OPEN ALL YEAR Bait ban 3 fish 3 fish 15 fish 1 trout over 30 cm;
+0 ARGR
+Blairmore Water Supply 34-7-4-W5 CLOSED ALL YEAR
+(Unnamed) Reservoir
+Burns Lake 17-19-7-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Burstall Lakes All lakes; 16-21-10-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Carburn Park Pond NE-23-23-1-W5 OPEN ALL YEAR Bait ban
+Carnarvon Lake 30-16-6-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Chester Lake 26-21-10-W5; Includes tributaries OPEN JULY 1 TO OCT. 31 Bait ban 2 fish under 2 fish
+and outlet 30 cm
+Commonwealth Lake Birdwood Lake; 29-21-10-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Crowsnest Lake OPEN ALL YEAR l 3 fish 3 fish 15 fish 3 fish 5 over 5 trout
+30 cm
+Tributaries OPEN JUNE 16 TO AUG. 31 Bait ban 5 over 2 fish Other trout 0
+30 cm
+Tributaries OPEN SEPT. 1 TO OCT. 31 Bait ban 0 fish 0 trout
+East Scarpe Lake 13-3-3-W5 OPEN ALL YEAR l 2 trout
+Emerald (Hart) Lake SE-8-8-5-W5 OPEN ALL YEAR l 3 fish 3 over 5 trout
+30 cm
+Fortress Lake 6-22-9-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Galatea Lakes Upper and lower; 13-22-10-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Gap Lake SW 20-24-09-W5 OPEN ALL YEAR Bait ban 5 over 2 fish Other trout 0
+30 cm
+Ghost Reservoir OPEN ALL YEAR Bait and bait 5 over 5 trout; 0 CTTR
+fish allowed 30 cm
+Glenmore Reservoir OPEN MAY 1 TO OCT. 31 l 3 fish 15 fish 5 over 5 trout
+30 cm
+Headwall Lakes Upper and lower; 19,30-21-9-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Hogarth Lakes Upper, middle, lower; 21-21-10-W5 OPEN ALL YEAR Bait ban 3 fish 3 fish 15 fish 1 trout over 40 cm
+Invincible Lake 5-20-9-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Kids Can Catch Pond 13-24-1-W5 OPEN MAY 1 TO SEPT. 30 Bait ban 3 fish 3 fish 15 fish 0 trout
+Lake Of The Horns 11-17-7-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+
+ES1 - Lakes, Reservoirs and Ponds |  |  |  |  |  |  |  |  |  |  |  |  | 
+Waterbody | Waterbody Detail | Season | Bait
+l = Bait
+except bait
+fish allowed | WALL | NRPK | YLPR | LKTR | MNWH | RNTR | CTTR | BKTR | DLVR | Trout Total
+Lillian Lake | 13-22-10-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Loomis Lake | 21-17-7-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Lower Kananaskis Lake | 35-19-9-W5; northwest bay-the
+portion north of a line drawn
+from the southernmost tip of the
+peninsula in NE 11-20-9-W5 due
+west to the point where the line
+intersects the shoreline of the lake
+(the northwest bay) | CLOSED ALL YEAR |  |  |  |  |  |  |  |  |  |  | 
+ | 35-19-9-W5; the remainder of the
+lake | OPEN ALL YEAR | Bait ban | 3 fish | 3 fish | 15 fish |  |  | over 50
+cm | over 50 cm |  |  | 1 trout
+Lys Lake | 26-3-3-W5 | OPEN ALL YEAR | l |  |  |  |  |  |  |  |  |  | 2 trout
+Maude Lake | 14-20-10-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Memorial Lakes | South, East and West; 6-23-9-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Mitford Ponds | SE 4-26-4-W5 | OPEN APR. 1 TO NOV. 30 | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 5 trout
+Mount Lorette Ponds | 19-23-8-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Mud Lake | 22-21-10-W5 | OPEN ALL YEAR | l |  |  |  |  |  |  |  |  |  | 2 trout
+Odlum Lake | 33-17-7-W5 | OPEN ALL YEAR | l |  |  |  |  |  |  |  |  |  | 2 trout
+Oldman Reservoir | The Crowsnest River downstream
+of the Cowley Bridge, the Castle
+River downstream of Hwy. 3, and
+the Oldman River downstream
+of Sec. Rd. 510. The boundaries
+are fixed regardless of water level
+fluctuations. | OPEN ALL YEAR | Bait ban |  |  |  |  | 5 over
+30 cm |  |  |  |  | 5 trout
+Phillips Lake | 18-8-5-W5 | OPEN ALL YEAR | l |  |  |  |  |  |  |  |  |  | 2 trout
+Picklejar Lakes | All lakes; 16, 17-18-6-W5; Includes
+tributaries and outlet | OPEN JULY 1 TO OCT. 31 | Bait ban |  |  |  |  |  |  |  |  |  | 0 trout
+Pine Coulee Reservoir |  | OPEN APR. 1 TO OCT. 31 | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 1 trout over 50 cm
+Quarry Lake | 29-24-10-W5 | OPEN ALL YEAR | Bait ban |  |  |  |  |  |  |  |  |  | 1 trout over 50 cm;
+0 ARGR
+Rainy Ridge Lake | 32-3-3-W5 | OPEN JULY 16 TO OCT. 31 | Bait ban |  |  |  |  |  |  |  |  |  | 1 trout over 40 cm
+ | Tributaries and outlet | CLOSED ALL YEAR |  |  |  |  |  |  |  |  |  |  | 
+Rawson Lake | 11-19-9-W5; Includes tributaries
+and outlet | OPEN JULY 16 TO OCT. 31 | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 0 trout
+Ribbon Lake | 19-22-9-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Rummel Lake | 3-22-10-W5; Includes tributaries
+and outlet | OPEN JULY 1 TO OCT. 31 | Bait ban |  |  |  |  |  |  |  |  |  | 1 trout over 40 cm
+Running Rain Lake | 7-18-7-W5 | OPEN ALL YEAR | Bait ban |  |  |  |  |  |  |  |  |  | 2 under 30 cm
+Shark Lake | NW-1-22-11-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Smuts Lakes | Upper and lower; 24-21-11-W5;
+Includes tributaries and outlet | OPEN ALL YEAR | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 1 trout over 40 cm
+Southfork Lake | 29-4-3-W5 | OPEN JULY 16 TO OCT. 31 | Bait ban |  |  |  |  |  |  |  |  |  | 1 trout over 40 cm
+ | Tributaries and outlet | CLOSED ALL YEAR |  |  |  |  |  |  |  |  |  |  | 
+
+ES1 - Lakes, Reservoirs and Ponds
+Waterbody Waterbody Detail Season Bait WALL NRPK YLPR LKTR MNWH RNTR CTTR BKTR DLVR Trout Total
+l = Bait
+except bait
+fish allowed
+Lillian Lake 13-22-10-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Loomis Lake 21-17-7-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Lower Kananaskis Lake 35-19-9-W5; northwest bay-the CLOSED ALL YEAR
+portion north of a line drawn
+from the southernmost tip of the
+peninsula in NE 11-20-9-W5 due
+west to the point where the line
+intersects the shoreline of the lake
+(the northwest bay)
+35-19-9-W5; the remainder of the OPEN ALL YEAR Bait ban 3 fish 3 fish 15 fish over 50 over 50 cm 1 trout
+lake cm
+Lys Lake 26-3-3-W5 OPEN ALL YEAR l 2 trout
+Maude Lake 14-20-10-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Memorial Lakes South, East and West; 6-23-9-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Mitford Ponds SE 4-26-4-W5 OPEN APR. 1 TO NOV. 30 l 3 fish 3 fish 15 fish 5 trout
+Mount Lorette Ponds 19-23-8-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Mud Lake 22-21-10-W5 OPEN ALL YEAR l 2 trout
+Odlum Lake 33-17-7-W5 OPEN ALL YEAR l 2 trout
+Oldman Reservoir The Crowsnest River downstream OPEN ALL YEAR Bait ban 5 over 5 trout
+of the Cowley Bridge, the Castle 30 cm
+River downstream of Hwy. 3, and
+the Oldman River downstream
+of Sec. Rd. 510. The boundaries
+are fixed regardless of water level
+fluctuations.
+Phillips Lake 18-8-5-W5 OPEN ALL YEAR l 2 trout
+Picklejar Lakes All lakes; 16, 17-18-6-W5; Includes OPEN JULY 1 TO OCT. 31 Bait ban 0 trout
+tributaries and outlet
+Pine Coulee Reservoir OPEN APR. 1 TO OCT. 31 Bait ban 3 fish 3 fish 15 fish 1 trout over 50 cm
+Quarry Lake 29-24-10-W5 OPEN ALL YEAR Bait ban 1 trout over 50 cm;
+0 ARGR
+Rainy Ridge Lake 32-3-3-W5 OPEN JULY 16 TO OCT. 31 Bait ban 1 trout over 40 cm
+Tributaries and outlet CLOSED ALL YEAR
+Rawson Lake 11-19-9-W5; Includes tributaries OPEN JULY 16 TO OCT. 31 Bait ban 3 fish 3 fish 15 fish 0 trout
+and outlet
+Ribbon Lake 19-22-9-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Rummel Lake 3-22-10-W5; Includes tributaries OPEN JULY 1 TO OCT. 31 Bait ban 1 trout over 40 cm
+and outlet
+Running Rain Lake 7-18-7-W5 OPEN ALL YEAR Bait ban 2 under 30 cm
+Shark Lake NW-1-22-11-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Smuts Lakes Upper and lower; 24-21-11-W5; OPEN ALL YEAR Bait ban 3 fish 3 fish 15 fish 1 trout over 40 cm
+Includes tributaries and outlet
+Southfork Lake 29-4-3-W5 OPEN JULY 16 TO OCT. 31 Bait ban 1 trout over 40 cm
+Tributaries and outlet CLOSED ALL YEAR
+
+ES1 - Lakes, Reservoirs and Ponds |  |  |  |  |  |  |  |  |  |  |  |  | 
+Waterbody | Waterbody Detail | Season | Bait
+l = Bait
+except bait
+fish allowed | WALL | NRPK | YLPR | LKTR | MNWH | RNTR | CTTR | BKTR | DLVR | Trout Total
+Sparrow's Egg Lake | 6-20-8-W5; Includes tributaries and
+outlet | OPEN JULY 1 TO OCT. 31 | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 1 trout over 50 cm
+Spray Lakes Reservoir |  | OPEN ALL YEAR | l |  |  |  | 3 fish | 5 over
+30 cm |  |  |  |  | 5 trout (includes 3
+LKTR)
+ | Tributaries | OPEN JULY 1 TO AUG. 31 | Bait ban |  |  |  |  | 5 over
+30 cm | over 35
+cm | over 35 cm |  |  | 2 trout
+ | Tributaries | OPEN SEPT. 1 TO OCT. 31 | Bait ban |  |  |  |  | 0 fish |  |  |  |  | 0 trout
+Stenton Lake | 35-25-10-W5; Includes tributaries
+and outlet | OPEN ALL YEAR | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 1 trout over 40 cm
+Sunken Lakes | Champion Lakes; Upper and lower;
+26-21-5-W5 | OPEN ALL YEAR | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 1 trout over 40 cm
+Talus Lake | 25-20-8-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Three Isle Lake | 23-19-10-W5 | OPEN ALL YEAR | l | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 2 trout
+Tombstone Lakes | Upper and lower; 13-20-8-W5 | OPEN ALL YEAR | l |  |  |  |  |  |  |  |  |  | 2 trout
+Upper Kananaskis Lake | The portion of the lake within 100m
+of Rawson Creek inlet | OPEN JULY 16 TO MAY 31 | Bait ban | 3 fish | 3 fish | 15 fish |  |  | over 50
+cm | over 50 cm |  |  | 1 trout
+ | The remainder of the lake | OPEN ALL YEAR | Bait ban | 3 fish | 3 fish | 15 fish |  |  | over 50
+cm | over 50 cm |  |  | 1 trout
+Watridge Lake | 11-22-11-W5; Includes tributaries
+and outlet | OPEN JULY 1 TO OCT. 31 | Bait ban | 3 fish | 3 fish | 15 fish |  |  |  |  |  |  | 0 trout
+Wedge Pond | 14-22-9-W5 | OPEN ALL YEAR | Bait ban |  |  |  |  |  |  |  |  |  | 1 trout over 50 cm;
+0 ARGR
+Window Mountain Lake | 29-9-5-W5 | OPEN ALL YEAR | l |  |  |  |  |  |  |  |  |  | 2 trout
+
+ES1 - Lakes, Reservoirs and Ponds
+Waterbody Waterbody Detail Season Bait WALL NRPK YLPR LKTR MNWH RNTR CTTR BKTR DLVR Trout Total
+l = Bait
+except bait
+fish allowed
+Sparrow's Egg Lake 6-20-8-W5; Includes tributaries and OPEN JULY 1 TO OCT. 31 Bait ban 3 fish 3 fish 15 fish 1 trout over 50 cm
+outlet
+Spray Lakes Reservoir OPEN ALL YEAR l 3 fish 5 over 5 trout (includes 3
+30 cm LKTR)
+Tributaries OPEN JULY 1 TO AUG. 31 Bait ban 5 over over 35 over 35 cm 2 trout
+30 cm cm
+Tributaries OPEN SEPT. 1 TO OCT. 31 Bait ban 0 fish 0 trout
+Stenton Lake 35-25-10-W5; Includes tributaries OPEN ALL YEAR Bait ban 3 fish 3 fish 15 fish 1 trout over 40 cm
+and outlet
+Sunken Lakes Champion Lakes; Upper and lower; OPEN ALL YEAR Bait ban 3 fish 3 fish 15 fish 1 trout over 40 cm
+26-21-5-W5
+Talus Lake 25-20-8-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Three Isle Lake 23-19-10-W5 OPEN ALL YEAR l 3 fish 3 fish 15 fish 2 trout
+Tombstone Lakes Upper and lower; 13-20-8-W5 OPEN ALL YEAR l 2 trout
+Upper Kananaskis Lake The portion of the lake within 100m OPEN JULY 16 TO MAY 31 Bait ban 3 fish 3 fish 15 fish over 50 over 50 cm 1 trout
+of Rawson Creek inlet cm
+The remainder of the lake OPEN ALL YEAR Bait ban 3 fish 3 fish 15 fish over 50 over 50 cm 1 trout
+cm
+Watridge Lake 11-22-11-W5; Includes tributaries OPEN JULY 1 TO OCT. 31 Bait ban 3 fish 3 fish 15 fish 0 trout
+and outlet
+Wedge Pond 14-22-9-W5 OPEN ALL YEAR Bait ban 1 trout over 50 cm;
+0 ARGR
+Window Mountain Lake 29-9-5-W5 OPEN ALL YEAR l 2 trout

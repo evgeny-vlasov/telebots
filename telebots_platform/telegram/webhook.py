@@ -22,15 +22,23 @@ def make_webhook_blueprint(bot_config, message_handler) -> Blueprint:
         if not update:
             return jsonify(ok=True)
 
-        # Only handle plain text messages for now
+        # Handle text messages and location shares
         msg = update.get("message") or update.get("edited_message")
         if not msg:
             return jsonify(ok=True)
 
         chat_id = msg["chat"]["id"]
-        text = msg.get("text", "").strip()
-        if not text:
-            return jsonify(ok=True)
+
+        # Check for location share first
+        if "location" in msg:
+            lat = msg["location"]["latitude"]
+            lng = msg["location"]["longitude"]
+            text = f"I'm at coordinates {lat}, {lng}. What can I fish here and what are the regulations?"
+        else:
+            # Regular text message
+            text = msg.get("text", "").strip()
+            if not text:
+                return jsonify(ok=True)
 
         # Show typing indicator
         send_chat_action(bot_config.BOT_TOKEN, chat_id)

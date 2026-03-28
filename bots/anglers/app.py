@@ -7,6 +7,8 @@ Mounts:
 """
 import sys
 from pathlib import Path
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # Make platform importable when running directly
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
@@ -81,7 +83,9 @@ def handle_message(update: dict, chat_id: int, text: str) -> str:
         history = history[-(MAX_HISTORY * 2):]
         _conversations[chat_id] = history
 
-    system = build_system_prompt(context)
+    # Get current datetime in Alberta timezone
+    current_dt = datetime.now(ZoneInfo("America/Edmonton"))
+    system = build_system_prompt(context, current_datetime=current_dt)
     reply = chat(system_prompt=system, messages=history)
 
     history.append({"role": "assistant", "content": reply})

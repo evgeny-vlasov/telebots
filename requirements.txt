@@ -15,3 +15,7 @@ voyageai>=0.3
 # Utilities
 python-dotenv>=1.0
 requests>=2.32
+beautifulsoup4>=4.12
+pdfplumber>=0.11
+pandas>=2.0
+openpyxl>=3.1

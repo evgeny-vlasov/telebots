@@ -1,0 +1,1853 @@
+ALBERTA FISH STOCKING SCHEDULE 2025
+================================================================================
+
+Planned stocking dates for Alberta waters in 2025.
+Source: Government of Alberta Open Data Portal
+
+
+================================================================================
+REGION: AIRDRIE
+================================================================================
+
+  NOSE CREEK POND
+  -----------------
+    • Species: RNTR, Number: 350, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 50, Size: 30cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: ATHABASCA
+================================================================================
+
+  BOYLE POND
+  ------------
+    • Species: RNTR, Number: 2200, Size: 20cm 3N, Date: before May 23rd
+
+  HORESHOE LAKE
+  ---------------
+    • Species: BKTR, Number: -, Size: 8cm 3N, Date: between June 1 - June 15 stocked even years
+
+  LOWER CHAIN LAKE
+  ------------------
+    • Species: BNTR, Number: 1000, Size: 19cm 3N, Date: between May 15 - June 1
+    • Species: TGTR, Number: 2000, Size: 23cm 3N, Date: between Sept 15-30 stocked odd years 
+
+  LOWER CHAIN LAKES
+  -------------------
+    • Species: RNTR, Number: 8000, Size: 20cm 2N, Date: between May 15 - June 1
+    • Species: RNTR, Number: 3000, Size: 20cm 2N, Date: between September 15-30th
+
+
+================================================================================
+REGION: BARRHEAD
+================================================================================
+
+  DOLBERG LAKE
+  --------------
+    • Species: BNTR, Number: -, Size: 19cm 3N, Date: even years only btw May15 - June 1
+    • Species: RNTR, Number: 8000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: -, Size: 18cm 3N, Date: even years only btw May15 - June 1 
+
+  PEANUT LAKE
+  -------------
+    • Species: BKTR, Number: 5000, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 15000, Size: 20cm 2N, Date: between September 15-30th
+
+
+================================================================================
+REGION: BASHAW 
+================================================================================
+
+  BASHAW POND
+  -------------
+    • Species: BKTR, Number: 200, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+  WINDSOR LAKE
+  --------------
+    • Species: RNTR, Number: 4500, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: BLAIRMORE
+================================================================================
+
+  ALLISON LAKE
+  --------------
+    • Species: CTTR, Number: 4000, Size: 16cm 2N, Date: before June 15th
+
+  BEAVER MINES LAKE
+  -------------------
+    • Species: CTTR, Number: 18000, Size: 16cm 2N, Date: before June 15th
+
+  COLEMAN FISH AND GAME POND
+  ----------------------------
+    • Species: CTTR, Number: 1600, Size: 16cm 2N, Date: before June 15th
+
+  CROWSNEST LAKE
+  ----------------
+    • Species: CTTR, Number: 10000, Size: 16cm 2N, Date: before June 15th
+
+  ISLAND LAKE
+  -------------
+    • Species: CTTR, Number: 3500, Size: 16cm 2N, Date: before June 15th
+
+
+================================================================================
+REGION: BONNYVILLE
+================================================================================
+
+  BONNYVILLE TOWN POND
+  ----------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+  CHATWIN LAKE
+  --------------
+    • Species: RNTR, Number: 10000, Size: 20cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: between September 15-30th
+
+  LARA FISH POND
+  ----------------
+    • Species: RNTR, Number: 400, Size: 23cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 200, Size: 20cm 2N, Date: between September 15-30th
+
+
+================================================================================
+REGION: BROOKS
+================================================================================
+
+  BOW CITY EAST POND
+  --------------------
+    • Species: RNTR, Number: 2000, Size: 20cm 3N, Date: before May 23rd
+
+  BROOKS AQUADUCT POND
+  ----------------------
+    • Species: RNTR, Number: 10000, Size: 20cm 2N, Date: before May 23rd
+
+
+================================================================================
+REGION: CALGARY
+================================================================================
+
+  KIDS CAN CATCH POND
+  ---------------------
+    • Species: RNTR, Number: 200, Size: 23cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: CAMROSE
+================================================================================
+
+  DAYSLAND POND
+  ---------------
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: before May 23rd
+
+  DIPLOMAT MINE POND
+  --------------------
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 1500, Size: 20cm 3N, Date: before May 23rd
+
+  PLEASURE ISLAND POND 
+  -----------------------
+    • Species: BKTR, Number: 1070, Size: 19cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 160, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 930, Size: 20cm 3N, Date: btw June 1 - June 15th
+    • Species: RNTR, Number: 200, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 200, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1200, Size: 20cm 3N, Date: between September 15-30th
+
+  TELEGRAPH PARK POND 
+  ----------------------
+    • Species: BNTR, Number: 193, Size: 19cm 3N, Date: before May 23rd
+    • Species: BKTR, Number: 1200, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1100, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: between September 15-30th
+
+
+================================================================================
+REGION: CANMORE
+================================================================================
+
+  ASTER LAKE
+  ------------
+    • Species: CTTR, Number: 1300, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  BEAR POND
+  -----------
+    • Species: TGTR, Number: 750, Size: 20cm 3N, Date: between June 1-15th
+
+  BIG IRON POND
+  ---------------
+    • Species: TGTR, Number: 750, Size: 20cm 3N, Date: between June 1-15th
+
+  BURSTALL LAKES (LOWER)
+  ------------------------
+    • Species: CTTR, Number: 1300, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  BURSTALL LAKES (UPPER)
+  ------------------------
+    • Species: CTTR, Number: 1200, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  COMMONWEALTH LAKE
+  -------------------
+    • Species: CTTR, Number: 400, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  FORTRESS LAKE
+  ---------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  GALATEA LAKES
+  ---------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  GROTTO MOUNTAIN POND
+  ----------------------
+    • Species: CTTR, Number: 400, Size: 17cm 2N, Date: between June 1-15th
+    • Species: CTTR, Number: 400, Size: 17cm 2N, Date: between June 15-30th
+    • Species: CTTR, Number: 800, Size: 16cm 2N, Date: before May 23rd
+
+  HEADWALL LAKES (Lower)
+  ------------------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  HEADWALL LAKES (Upper)
+  ------------------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  HOGARTH LAKES LOWER
+  ---------------------
+    • Species: CTTR, Number: 1200, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  HOGARTH LAKES UPPER
+  ---------------------
+    • Species: CTTR, Number: 1200, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  INVINCIBLE LAKE
+  -----------------
+    • Species: CTTR, Number: 450, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  LILLIAN LAKE
+  --------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  LOWER KANANASKIS LAKE
+  -----------------------
+    • Species: CTTR, Number: 5000, Size: 16cm 2N, Date: before June 15th
+
+  LOWER SMUTS LAKE
+  ------------------
+    • Species: CTTR, Number: 200, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  MARGARET LAKE
+  ---------------
+    • Species: RNTR, Number: 3100, Size: 20cm 3N, Date: before June 15th
+
+  MAUDE LAKE
+  ------------
+    • Species: CTTR, Number: 2300, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  MEMORIAL LAKES
+  ----------------
+    • Species: CTTR, Number: 0, Size: 6cm 2N, Date: stocking in 2026
+
+  MOUNT LORETTE PONDS
+  ---------------------
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: between July 1-15th
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: before June 1
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: between June 1-15th
+    • Species: CTTR, Number: 800, Size: 17cm 2N, Date: between June 15-30th
+    • Species: CTTR, Number: 600, Size: 17cm 2N, Date: between July 1-15th
+    • Species: CTTR, Number: 800, Size: 16cm 2N, Date: before June 1
+    • Species: CTTR, Number: 800, Size: 16cm 2N, Date: before May 23rd
+
+  RIBBON LAKE
+  -------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  SHARK LAKE
+  ------------
+    • Species: CTTR, Number: 500, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  SIBBALD LAKE
+  --------------
+    • Species: RNTR, Number: 1130, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: between June 1-15th
+
+  SIBBALD MEADOWS POND
+  ----------------------
+    • Species: RNTR, Number: 1350, Size: 23cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 2650, Size: 20cm 3N, Date: between June 1-15th
+
+  SPARROWS EGG LAKE
+  -------------------
+    • Species: CTTR, Number: 900, Size: 16cm 2N, Date: before June 15th
+
+  STENTON LAKE
+  --------------
+    • Species: RNTR, Number: 400, Size: 15cm 3N, Date: between September 15th - October 15th
+
+  THREE ISLE LAKE
+  -----------------
+    • Species: CTTR, Number: 3300, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  TIM HORTON CAMP POND
+  ----------------------
+    • Species: CTTR, Number: 600, Size: 16cm 2N, Date: before June 15th
+
+  UPPER KANANASKIS LAKE
+  -----------------------
+    • Species: CTTR, Number: 5000, Size: 16cm 2N, Date: before June 15th
+
+  UPPER SMUTS LAKE
+  ------------------
+    • Species: CTTR, Number: 200, Size: 6cm 2N, Date: between September 15th - October 15th
+
+
+================================================================================
+REGION: CARDSTON
+================================================================================
+
+  LITTLE BEAVERDAM POND
+  -----------------------
+    • Species: TGTR, Number: 1000, Size: 20cm 3N, Date: before June 15th
+
+  OUTPOST LAKE
+  --------------
+    • Species: RNTR, Number: 2500, Size: 23cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 2500, Size: 20cm 3N, Date: before May 23rd
+
+  PAYNE LAKE
+  ------------
+    • Species: RNTR, Number: 13400, Size: 20cm 3N, Date: before May 15th
+    • Species: RNTR, Number: 57000, Size: 16cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 62500, Size: 13cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 102500, Size: 17cm 3N, Date: between September 15-30th
+
+  SPRING COULEE PARK POND
+  -------------------------
+    • Species: RNTR, Number: 2500, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: CARSTAIRS
+================================================================================
+
+  MIDWAY RESERVOIR
+  ------------------
+    • Species: RNTR, Number: 1800, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: CASTOR
+================================================================================
+
+  CASTOR FISH POND
+  ------------------
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 40, Size: 30cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: CLARESHOLM
+================================================================================
+
+  CHAIN LAKES RESERVOIR
+  -----------------------
+    • Species: RNTR, Number: 15000, Size: 20cm 3N, Date: before May 15th
+    • Species: RNTR, Number: 32000, Size: 16cm 3N, Date: before May 15th
+    • Species: RNTR, Number: 55000, Size: 18cm 3N, Date: between September 15-30th
+
+  GRANUM POND
+  -------------
+    • Species: RNTR, Number: 600, Size: 20cm 3N, Date: before May 23rd
+
+  PINE COULEE RESERVOIR
+  -----------------------
+    • Species: RNTR, Number: 5000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: COCHRANE
+================================================================================
+
+  CROSSFIELD TROUT POND
+  -----------------------
+    • Species: RNTR, Number: 1400, Size: 23cm 3N, Date: before May 23rd
+
+  DEWITT'S POND 
+  ----------------
+    • Species: BNTR, Number: 1345, Size: 19cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 1250, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: between June 1-15th
+
+  LOWER CHAMPION LAKE
+  ---------------------
+    • Species: CTTR, Number: 300, Size: 16cm 2N, Date: before June 15th
+
+  MCLEAN POND
+  -------------
+    • Species: CTTR, Number: 2300, Size: 16cm 2N, Date: before May 23rd
+    • Species: CTTR, Number: 2300, Size: 17cm 2N, Date: between June 1-15th
+
+  MITFORD POND
+  --------------
+    • Species: BNTR, Number: 61, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 350, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 289, Size: 20cm 3N, Date: between June 1-15th
+
+  TALUS LAKE
+  ------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  UPPER CHAMPION LAKE
+  ---------------------
+    • Species: CTTR, Number: 300, Size: 16cm 2N, Date: before June 15th
+
+
+================================================================================
+REGION: COLD LAKE
+================================================================================
+
+  ARDMORE COMMUNITY POND
+  ------------------------
+    • Species: RNTR, Number: 400, Size: 23cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 200, Size: 20cm 2N, Date: between September 15-30th
+
+  LITTLE BEAR LAKE
+  ------------------
+    • Species: BKTR, Number: 2200, Size: 19cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 2200, Size: 20cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 1000, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: between September 15-30th
+
+  MEDLEY RIVER
+  --------------
+    • Species: RNTR, Number: 1500, Size: 20cm 3N, Date: between May 23rd - June 15th
+
+
+================================================================================
+REGION: CORONATION
+================================================================================
+
+  CORONATION RESERVOIR
+  ----------------------
+    • Species: RNTR, Number: 5300, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 1000, Size: 19cm 3N, Date: before May 23rd
+
+  GOOSEBERRY PARK POND
+  ----------------------
+    • Species: RNTR, Number: 3000, Size: 20cm 3N, Date: before May 23rd
+
+  HUBER RESERVOIR
+  -----------------
+    • Species: RNTR, Number: 6000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 1250, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: DRAYTON VALLEY
+================================================================================
+
+  LODGEPOLE POND
+  ----------------
+    • Species: RNTR, Number: 200, Size: 20cm 3N, Date: before May 23rd
+
+  SARDINE LAKE
+  --------------
+    • Species: RNTR, Number: 2500, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: DRUMHELLER
+================================================================================
+
+  ANDERSON DAM
+  --------------
+    • Species: RNTR, Number: 900, Size: 20cm 3N, Date: before May 23rd
+
+  MCLAREN'S RESERVOIR
+  ---------------------
+    • Species: RNTR, Number: 1400, Size: 23cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 4200, Size: 20cm 2N, Date: before May 23rd
+
+  MICHICHI RESERVOIR
+  --------------------
+    • Species: RNTR, Number: 1400, Size: 23cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 4200, Size: 20cm 2N, Date: before May 23rd
+
+
+================================================================================
+REGION: EDMONTON
+================================================================================
+
+  LACOMBE PARK POND
+  -------------------
+    • Species: BKTR, Number: 600, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: EDSON
+================================================================================
+
+  DANDURAND LAKE
+  ----------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+  DUNN LAKE
+  -----------
+    • Species: BKTR, Number: 3000, Size: 19cm 3N, Date: between May 23 - June 15th
+
+  EMERSON LAKE
+  --------------
+    • Species: RNTR, Number: 2250, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  FAIRFAX LAKE
+  --------------
+    • Species: RNTR, Number: 10000, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  LAMBERT POND
+  --------------
+    • Species: RNTR, Number: 2000, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  LOVETT LAKE
+  -------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: between May 23 - June 15th
+
+  MILLERS LAKE
+  --------------
+    • Species: RNTR, Number: 14000, Size: 20cm 3N, Date: between May 23 - June 15th
+    • Species: TGTR, Number: 1450, Size: 23cm 3N, Date: between September 15-30th odd years only 1450
+
+  OBED LAKE
+  -----------
+    • Species: BNTR, Number: 14000, Size: 19cm 3N, Date: between May 23 - June 15th
+
+  PIT 24
+  --------
+    • Species: BNTR, Number: 250, Size: 19cm 3N, Date: between May 23 - June 15th
+    • Species: RNTR, Number: 750, Size: 20cm 3N, Date: between May 23 - June 15th
+
+  PIT 35
+  --------
+    • Species: RNTR, Number: 390, Size: 20cm 3N, Date: between May 23 - June 15th
+
+  PIT 44
+  --------
+    • Species: RNTR, Number: 1100, Size: 20cm 3N, Date: between May 23 - June 15th
+
+  SILKSTONE LAKE
+  ----------------
+    • Species: RNTR, Number: 1300, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  SOUTH SUNDANCE LAKE
+  ---------------------
+    • Species: BKTR, Number: -, Size: 7cm 3N, Date: even years only September 15-30th 
+
+  TRAPPER LAKE
+  --------------
+    • Species: RNTR, Number: -, Size: 8cm 3N, Date: even years only September 15-30th 
+
+  WOLF CREEK POND
+  -----------------
+    • Species: RNTR, Number: 750, Size: 20cm 3N, Date: between May 23 - June 15th
+
+
+================================================================================
+REGION: EDSON 
+================================================================================
+
+  MUSKIKI LAKE
+  --------------
+    • Species: CTTR, Number: 2500, Size: 16cm 2N, Date: between May 23 - June 15th
+    • Species: CTTR, Number: 2000, Size: 20cm 2N, Date: between September 15th - October 15th
+
+  PIT 45
+  --------
+    • Species: RNTR, Number: 1100, Size: 20cm 3N, Date: between May 23 - June 15th
+
+
+================================================================================
+REGION: ENCHANT
+================================================================================
+
+  ENCHANT PARK POND
+  -------------------
+    • Species: TGTR, Number: 200, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 2000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: EVANSBURG
+================================================================================
+
+  NITON POND
+  ------------
+    • Species: RNTR, Number: 1500, Size: 23cm 2N, Date: before May 23rd
+
+  WILDWOOD (STONES) POND
+  ------------------------
+    • Species: RNTR, Number: 1500, Size: 23cm 2N, Date: before May 23rd
+
+
+================================================================================
+REGION: FAIRVIEW
+================================================================================
+
+  FAIRVIEW COLLEGE POND
+  -----------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+  MONTAGANEUSSE LAKE
+  --------------------
+    • Species: BKTR, Number: -, Size: 19cm 3N, Date: even years only - between May 23 - June 15th
+    • Species: RNTR, Number: 10000, Size: 17cm 3N, Date: odd years rainbows before June 15th
+    • Species: TGTR, Number: 1975, Size: 20cm 3N, Date: between May 23 - June 15th
+
+  OLE LAKE
+  ----------
+    • Species: RNTR, Number: 3000, Size: 20cm 3N, Date: between May 23 - June 15th
+
+  RUNNING LAKE
+  --------------
+    • Species: BKTR, Number: 3000, Size: 19cm 3N, Date: odd years 
+    • Species: RNTR, Number: -, Size: 20cm 3N, Date: even years only - between May 23rd - June 15th
+
+  SULPHUR LAKE 
+  ---------------
+    • Species: BKTR, Number: 4500, Size: 19cm 3N, Date: odd years 
+    • Species: RNTR, Number: -, Size: 20cm 3N, Date: even years only - between May 23rd - June 15th
+
+
+================================================================================
+REGION: FORT MCMURRAY
+================================================================================
+
+  ENGSTROM LAKE
+  ---------------
+    • Species: RNTR, Number: 20000, Size: 20cm 2N, Date: between May 15 - June 1
+    • Species: RNTR, Number: 25000, Size: 20cm 3N, Date: September 15-30th
+
+  HIGHWAY 63 POND
+  -----------------
+    • Species: RNTR, Number: 1000, Size: 20cm 2N, Date: before May 23rd
+
+  TEXACO EAST POND
+  ------------------
+    • Species: RNTR, Number: 2700, Size: 20cm 2N, Date: before May 23rd
+
+  TEXACO POND
+  -------------
+    • Species: RNTR, Number: 1500, Size: 20cm 2N, Date: before May 23rd
+
+
+================================================================================
+REGION: FORT SASKATCHEWAN
+================================================================================
+
+  LAMONT POND
+  -------------
+    • Species: RNTR, Number: 2000, Size: 20cm 3N, Date: before May 23rd
+
+  RADWAY POND
+  -------------
+    • Species: RNTR, Number: 1040, Size: 20cm 3N, Date: before May 23rd
+
+  WEST RIVERS EDGE POND (Fort Sask Pond)
+  ----------------------------------------
+    • Species: BNTR, Number: 250, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1800, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 50, Size: 30cm 3N, Date: btw June 1 - June 15th
+    • Species: TGTR, Number: 450, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: FORT VERMILION
+================================================================================
+
+  LA CRETE POND
+  ---------------
+    • Species: RNTR, Number: 1500, Size: 20cm 3N, Date: between May 15 - June 1
+
+
+================================================================================
+REGION: FOX CREEK
+================================================================================
+
+  FOX CREEK TROUT POND
+  ----------------------
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: GIBBONS
+================================================================================
+
+  GIBBONS PARK POND
+  -------------------
+    • Species: RNTR, Number: 300, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 25, Size: 30cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: GRANDE CACHE
+================================================================================
+
+  GRANDE CACHE LAKE
+  -------------------
+    • Species: RNTR, Number: 10000, Size: 20cm 3N, Date: before June 1
+    • Species: RNTR, Number: 15000, Size: 13cm 3N, Date: before June 15th
+    • Species: RNTR, Number: 15000, Size: 20cm 3N, Date: between September 15-30th
+
+  PIERRE GREYS LAKES LOWER
+  --------------------------
+    • Species: RNTR, Number: 7000, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  PIERRE GREYS LAKES MIDDLE 
+  ----------------------------
+    • Species: RNTR, Number: 15000, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  PIERRE GREYS LAKES UPPER
+  --------------------------
+    • Species: BKTR, Number: 6000, Size: 19cm 3N, Date: between May 23 - June 15th
+
+  PIERRE GREYS LAKES UPPER 
+  ---------------------------
+    • Species: BKTR, Number: 9500, Size: 11cm 3N, Date: between September 15-30th
+
+  VICTOR LAKE
+  -------------
+    • Species: RNTR, Number: 15000, Size: 18cm 3N, Date: between May 23 - June 15th
+
+
+================================================================================
+REGION: GRANDE PRAIRIE
+================================================================================
+
+  COUNTY SPORTSPLEX POND
+  ------------------------
+    • Species: RNTR, Number: 2000, Size: 23cm 3N, Date: before May 23rd
+
+  HIGHWAY 40 POND
+  -----------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+  MUSKOSEEPI POND
+  -----------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+  NORTH TWO LAKES
+  -----------------
+    • Species: RNTR, Number: 7200, Size: 17cm 3N, Date: between May 23 - June 15th
+
+  SOUTH TWO LAKES
+  -----------------
+    • Species: CTTR, Number: 2000, Size: 16cm 2N, Date: between May 23 - June 15th
+    • Species: CTTR, Number: 2500, Size: 20cm 2N, Date: between September 15-30th
+
+
+================================================================================
+REGION: HANNA
+================================================================================
+
+  BLOOD INDIAN RES.
+  -------------------
+    • Species: BNTR, Number: 7500, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 7000, Size: 23cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 10000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 7500, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 30000, Size: 20cm 2N, Date: between September 15-30th
+
+  HELMER RESERVOIR
+  ------------------
+    • Species: RNTR, Number: 5000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: HIGH LEVEL
+================================================================================
+
+  FOOTNER POND
+  --------------
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: before May 23rd
+
+  HIGH LEVEL COMMUNITY POND
+  ---------------------------
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: before May 23rd
+
+  MACHESIS LAKE
+  ---------------
+    • Species: RNTR, Number: 4000, Size: 20cm 3N, Date: between May 15 - June 1
+
+  RAINBOW LAKE POND
+  -------------------
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: between May 15 - June 1
+
+  ZAMA COMMUNITY POND
+  ---------------------
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: odd years only
+
+
+================================================================================
+REGION: HIGH PRAIRIE
+================================================================================
+
+  ATLANTIC RICHFIELD RESERVOIR
+  ------------------------------
+    • Species: RNTR, Number: 1800, Size: 20cm 2N, Date: between May 15 - May 30th
+
+  EDITH LAKE
+  ------------
+    • Species: BKTR, Number: 2100, Size: 19cm 3N, Date: between May 15 - May 30th
+
+
+================================================================================
+REGION: HIGH RIVER
+================================================================================
+
+  BURNS LAKE
+  ------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  CARNARVON LAKE
+  ----------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  EMERSON LAKE
+  --------------
+    • Species: RNTR, Number: 1400, Size: 20cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 200, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1400, Size: 20cm 3N, Date: between June 1-15th
+
+  LAKE OF THE HORNS
+  -------------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  LOOMIS LAKE
+  -------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+  ODLUM LAKE
+  ------------
+    • Species: CTTR, Number: -, Size: 6cm 2N, Date: stocking in 2026
+
+
+================================================================================
+REGION: HINTON
+================================================================================
+
+  HINTON F & G POND
+  -------------------
+    • Species: RNTR, Number: 300, Size: 23cm 3N, Date: between May 23 - June 15th
+
+  JARVIS CREEK POND
+  -------------------
+    • Species: RNTR, Number: 700, Size: 23cm 3N, Date: between May 23 - June 15th
+
+  KINKY LAKE
+  ------------
+    • Species: BKTR, Number: 7000, Size: 19cm 3N, Date: between May 23 - June 15th
+    • Species: BKTR, Number: 3000, Size: 23cm 3N, Date: between September 15-30th
+
+  MARY GREGG LAKE
+  -----------------
+    • Species: RNTR, Number: 4000, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  MAYAN LAKE
+  ------------
+    • Species: RNTR, Number: 2000, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  PETITE LAKE
+  -------------
+    • Species: RNTR, Number: 2000, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  WILDHORSE LAKES (Lower)
+  -------------------------
+    • Species: RNTR, Number: 7500, Size: 18cm 3N, Date: between May 23 - June 15th
+
+  WILDHORSE LAKES (Upper)
+  -------------------------
+    • Species: BKTR, Number: 2500, Size: 7cm 3N, Date: between May 23 - June 15th
+
+
+================================================================================
+REGION: KILLAM
+================================================================================
+
+  LOUGHEED TROUT POND
+  ---------------------
+    • Species: RNTR, Number: 600, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: LAC LA BICHE
+================================================================================
+
+  LAC LA BICHE TROUT POND
+  -------------------------
+    • Species: RNTR, Number: 600, Size: 23cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 600, Size: 20cm 2N, Date: between September 15-30th
+
+  MILE 07 LAKE
+  --------------
+    • Species: RNTR, Number: 11000, Size: 20cm 2N, Date: before May 23rd
+
+
+================================================================================
+REGION: LACOMBE
+================================================================================
+
+  EAST STORMWATER POND
+  ----------------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 100, Size: 19cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: LETHBRIDGE
+================================================================================
+
+  CORNER RESERVOIR
+  ------------------
+    • Species: RNTR, Number: 5000, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 3N, Date: between September 15-30th
+
+  KEENEX COULEE RESERVOIR
+  -------------------------
+    • Species: RNTR, Number: -, Size: 20cm 2N, Date: stocking suspended poor water quality
+
+  MAGRATH FISH POND
+  -------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 25, Size: 30cm 3N, Date: before May 23rd
+
+  McQUILLAN RESERVOIR
+  ---------------------
+    • Species: RNTR, Number: 1900, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1400, Size: 20cm 3N, Date: between June 1 - June 15th
+
+  McVINNIE RESERVOIR
+  --------------------
+    • Species: RNTR, Number: 1155, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 400, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1645, Size: 20cm 3N, Date: between June 1 - June 15th
+
+  NICHOLAS SHARON
+  -----------------
+    • Species: BKTR, Number: 500, Size: >30cm 2N, Date: before May 1st
+    • Species: BKTR, Number: 2000, Size: 19cm 3N, Date: between April 15th - May 1
+    • Species: BNTR, Number: 2000, Size: 19cm 3N, Date: between May 23-June 15 
+    • Species: RNTR, Number: 2000, Size: 23cm 3N, Date: between April 15th - May 1
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: between September 15-30th
+
+  RIVERSTONE POND
+  -----------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: between September 15-30th
+    • Species: RNTR, Number: 1830, Size: 23cm 3N, Date: before May 1st
+
+  STIRLING CHILDRENS FISH POND
+  ------------------------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: LLOYDMINSTER
+================================================================================
+
+  BUD MILLER PARK POND
+  ----------------------
+    • Species: RNTR, Number: 1500, Size: 20cm 3N, Date: before May 23rd
+
+  DILLBERRY LAKE
+  ----------------
+    • Species: RNTR, Number: 7000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 3000, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 8000, Size: 19cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: between September 15 - October 15th
+
+  LLOYDMINSTER TROUT POND
+  -------------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: MANNING
+================================================================================
+
+  EAST TWIN LAKE
+  ----------------
+    • Species: RNTR, Number: 4200, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 4200, Size: 20cm 2N, Date: September 15-30th
+
+
+================================================================================
+REGION: MEDICINE HAT
+================================================================================
+
+  BULLSHEAD RESERVOIR 
+  ----------------------
+    • Species: RNTR, Number: -, Size: 20cm 3N, Date: no stocking - water quality monitoring
+
+  CAVAN LAKE
+  ------------
+    • Species: RNTR, Number: -, Size: 20cm 2N, Date: water level reviewed each year for stocking
+
+  ECHO DALE REGIONAL PARK
+  -------------------------
+    • Species: RNTR, Number: 1800, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 30, Size: 30cm 3N, Date: before May 23rd
+
+  MICHEL RESERVOIR
+  ------------------
+    • Species: BNTR, Number: 1500, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 7500, Size: 20cm 2N, Date: before May 23rd
+
+  REESOR LAKE
+  -------------
+    • Species: RNTR, Number: 7000, Size: 20cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 9000, Size: 19cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: -, Size: 20cm 3N, Date: even year stocking 
+    • Species: RNTR, Number: 6000, Size: 20cm 2N, Date: between September 15-30th
+
+  SPRUCE COULEE RESERVOIR
+  -------------------------
+    • Species: BKTR, Number: 8500, Size: 19cm 3N, Date: between May 23 - June 15th
+    • Species: BKTR, Number: 15000, Size: 11cm 3N, Date: between September 15-30th
+
+
+================================================================================
+REGION: MILK RIVER (LETHBRIDGE)
+================================================================================
+
+  GOLD SPRINGS PARK
+  -------------------
+    • Species: RNTR, Number: 2363, Size: 20cm 3N, Date: between June 1-15th
+    • Species: RNTR, Number: 2362, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 50, Size: 30cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: NORDEGG
+================================================================================
+
+  ALLSTONES LAKE
+  ----------------
+    • Species: BKTR, Number: 650, Size: 11cm 3N, Date: odd years only between September 15th - October 15th
+
+  DORMER
+  --------
+    • Species: CTTR, Number: 750, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  ENTRY LAKE
+  ------------
+    • Species: CTTR, Number: 500, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  GAP LAKE
+  ----------
+    • Species: CTTR, Number: 1000, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  GOLDEYE LAKE
+  --------------
+    • Species: RNTR, Number: 10000, Size: 16cm 3N, Date: between May 15 - June 1st
+
+  HARLECK POND
+  --------------
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: before May 23rd
+
+  LAKE OF THE FALLS
+  -------------------
+    • Species: CTTR, Number: 2000, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  LANDSLIDE LAKE
+  ----------------
+    • Species: CTTR, Number: 3000, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  NORDEGG BORROW PIT (EAST)
+  ---------------------------
+    • Species: RNTR, Number: 300, Size: 23cm 3N, Date: before May 23rd
+
+  NORDEGG BORROW PIT (WEST)
+  ---------------------------
+    • Species: RNTR, Number: 400, Size: 23cm 3N, Date: before May 23rd
+
+  OBSTRUCTION LAKES
+  -------------------
+    • Species: CTTR, Number: 800, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  SHUNDA LAKE
+  -------------
+    • Species: RNTR, Number: 20000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: OLDS
+================================================================================
+
+  CIPPERLEY'S RESERVOIR 
+  ------------------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+  HILLER'S RESERVOIR
+  --------------------
+    • Species: RNTR, Number: 7500, Size: 20cm 2N, Date: before May 23rd
+
+  KRAFT WINBORNE POND
+  ---------------------
+    • Species: BKTR, Number: 230, Size: 19cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 70, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 180, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: OYEN
+================================================================================
+
+  ACADIA VALLEY RESERVOIR
+  -------------------------
+    • Species: BKTR, Number: 2000, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: before May 23rd
+
+  OYEN CONCRETE PLANT POND
+  --------------------------
+    • Species: RNTR, Number: 350, Size: 20cm 3N, Date: before May 23rd
+
+  OYEN RESERVOIR
+  ----------------
+    • Species: RNTR, Number: 250, Size: 20cm 3N, Date: water level dependent
+
+
+================================================================================
+REGION: PEACE RIVER
+================================================================================
+
+  CECIL THOMPSON POND
+  ---------------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+  FIGURE EIGHT LAKE 
+  --------------------
+    • Species: RNTR, Number: 9000, Size: 20cm 3N, Date: before May 23rd
+
+  HIGHWAY 686 POND
+  ------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+  MD PEACE POND #1
+  ------------------
+    • Species: RNTR, Number: 1000, Size: 23cm 3N, Date: before May 23rd
+
+  PEACE POND #2
+  ---------------
+    • Species: RNTR, Number: 1000, Size: 23cm 3N, Date: before May 23rd
+
+  WEBERVILLE POND
+  -----------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: PINCHER CREEK
+================================================================================
+
+  BATHING LAKE
+  --------------
+    • Species: CTTR, Number: 1000, Size: 16cm 2N, Date: before June 15th
+
+  BEAUVAIS LAKE
+  ---------------
+    • Species: CTTR, Number: 18000, Size: 16cm 2N, Date: before June 15th
+
+  BURMIS LAKE
+  -------------
+    • Species: CTTR, Number: 1000, Size: 16cm 2N, Date: before June 15th
+
+  BURN'S RESERVOIR
+  ------------------
+    • Species: CTTR, Number: 1000, Size: 16cm 2N, Date: before June 15th
+
+  BUTCHER'S LAKE
+  ----------------
+    • Species: BKTR, Number: 3000, Size: 19cm 3N, Date: before May 23rd
+
+  LEES LAKE
+  -----------
+    • Species: BNTR, Number: 1895, Size: 19cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 17000, Size: 20cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 3000, Size: 13cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 20000, Size: 20cm 3N, Date: between September 15-30th 
+
+
+================================================================================
+REGION: PONOKA
+================================================================================
+
+  CENTENNIAL PARK POND
+  ----------------------
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 100, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: PROVOST
+================================================================================
+
+  CAPTAIN EYRE LAKE
+  -------------------
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 2000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: RED DEER
+================================================================================
+
+  BOULDER LAKE
+  --------------
+    • Species: RNTR, Number: 1200, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 800, Size: 20cm 3N, Date: between June 1st-15th
+    • Species: TGTR, Number: 200, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: between September 15-30th
+
+  DICKSON TROUT POND
+  --------------------
+    • Species: RNTR, Number: 20000, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 1700, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 1700, Size: 23cm 3N, Date: between September 15-30th
+    • Species: RNTR, Number: 5000, Size: 20cm 3N, Date: between September 15-30th
+
+  LEN THOMPSON POND
+  -------------------
+    • Species: RNTR, Number: 2307, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 50, Size: 30cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 150, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+  MIRROR RESERVOIR
+  ------------------
+    • Species: BNTR, Number: -, Size: 19cm 3N, Date: water level issues may not be stocked TBD
+
+  MITCHELL POND
+  ---------------
+    • Species: RNTR, Number: 2100, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 50, Size: 30cm 3N, Date: before May 23rd
+
+  RAY'S POND
+  ------------
+    • Species: RNTR, Number: 1200, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1100, Size: 20cm 3N, Date: btw June 1 - June 15th
+    • Species: TGTR, Number: 250, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: RIMBEY
+================================================================================
+
+  NUGGENT POND
+  --------------
+    • Species: RNTR, Number: 600, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: ROCKY MOUNTAIN HOUSE
+================================================================================
+
+  ALFORD LAKE
+  -------------
+    • Species: RNTR, Number: 3000, Size: 20cm 3N, Date: before May 23rd
+
+  BRAZEAU BORROW PIT #1
+  -----------------------
+    • Species: RNTR, Number: 0, Size: 20cm 3N, Date: access being reviewed
+
+  BRAZEAU BORROW PIT #2
+  -----------------------
+    • Species: RNTR, Number: 0, Size: 20cm 3N, Date: access being reviewed
+
+  CAMP 9 TROUT POND
+  -------------------
+    • Species: RNTR, Number: 0, Size: 20cm 3N, Date: access being reviewed
+
+  COW LAKE
+  ----------
+    • Species: BNTR, Number: 5000, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 14000, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 16000, Size: 16cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 15000, Size: 13cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 10000, Size: 20cm 3N, Date: between September 15-30th
+    • Species: RNTR, Number: 15000, Size: 16cm 3N, Date: between September 15-30th
+
+  ELK CREEK POND
+  ----------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before June 1st
+
+  IRONSIDE POND
+  ---------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before June 1st
+    • Species: TGTR, Number: 400, Size: 23cm 3N, Date: between September 15-30th
+
+  LOST GUIDE LAKE
+  -----------------
+    • Species: CTTR, Number: 1200, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  MITCHELL LAKE
+  ---------------
+    • Species: BNTR, Number: 500, Size: 19cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 2000, Size: 20cm 3N, Date: before June 1st
+    • Species: TGTR, Number: 1200, Size: 23cm 3N, Date: between September 15-30th
+
+  OPEN CREEK RESERVOIR
+  ----------------------
+    • Species: RNTR, Number: 6000, Size: 20cm 2N, Date: before June 1st
+
+  PEPPERS LAKE
+  --------------
+    • Species: BKTR, Number: 4000, Size: 19cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 2800, Size: 20cm 3N, Date: before June 1st
+
+  PHYLLIS LAKE
+  --------------
+    • Species: RNTR, Number: 10000, Size: 20cm 3N, Date: before May 23rd
+
+  RAT LAKE
+  ----------
+    • Species: BKTR, Number: -, Size: 8cm 3N, Date: even years 2500
+    • Species: TGTR, Number: 700, Size: 23cm 3N, Date: between September 15-30th
+
+  ROCKY CHILDREN'S POND
+  -----------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before June 15
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: before May 23rd
+
+  STRUBEL LAKE
+  --------------
+    • Species: RNTR, Number: 12800, Size: 20cm 3N, Date: before June 1st
+
+  TAY LAKE
+  ----------
+    • Species: RNTR, Number: 5000, Size: 16cm 3N, Date: between June 1-15th 
+
+  TWIN LAKES
+  ------------
+    • Species: RNTR, Number: 7000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: SLAVE LAKE
+================================================================================
+
+  CHRYSTINA LAKE
+  ----------------
+    • Species: BKTR, Number: 2600, Size: 19cm 3N, Date: between May 15 - May 30th
+
+  JANE LAKE
+  -----------
+    • Species: RNTR, Number: 1800, Size: 8cm 3N, Date: stock every three years next 2025 before June 15
+
+  JESSIE LAKE
+  -------------
+    • Species: RNTR, Number: 3500, Size: 8cm 3N, Date: stock every three years next 2025 before June 15
+
+  LILY LAKE
+  -----------
+    • Species: BKTR, Number: 3660, Size: 10cm 3N, Date: between September 15-30th
+    • Species: TGTR, Number: 325, Size: 23cm 3N, Date: between September 15-30th
+
+  PARKER LAKE
+  -------------
+    • Species: RNTR, Number: 7800, Size: 8cm 3N, Date: September 15-30th (Stock every 3 years next 2025 7,800)
+
+  TEA LAKES
+  -----------
+    • Species: RNTR, Number: 6000, Size: 8cm 3N, Date: September 15-30th (Stock every 3 years next 2025 6,000)
+
+
+================================================================================
+REGION: SMOKY LAKE
+================================================================================
+
+  BELLIS BEACH LAKE
+  -------------------
+    • Species: RNTR, Number: 14000, Size: 20cm 2N, Date: between May 15 - June 1
+
+  SHEMELUK LAKE
+  ---------------
+    • Species: RNTR, Number: 6000, Size: 20cm 2N, Date: between May 15 - June 1
+
+
+================================================================================
+REGION: SOUTH TO NORTH
+================================================================================
+
+
+================================================================================
+REGION: SPIRIT RIVER
+================================================================================
+
+  KAKUT LAKE
+  ------------
+    • Species: RNTR, Number: 1500, Size: 20cm 3N, Date: before May 23rd
+
+  MOONSHINE LAKE
+  ----------------
+    • Species: BNTR, Number: 500, Size: 19cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 500, Size: 23cm 3N, Date: between September 15-30th
+    • Species: RNTR, Number: 9300, Size: 17cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 1500, Size: 23cm 3N, Date: between September 15-30th
+
+  NARDAM LAKE
+  -------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+  SHELL TRUE NORTH POND
+  -----------------------
+    • Species: BKTR, Number: 590, Size: 19cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 50, Size: 20cm 3N, Date: before May 23rd
+
+  SPRING LAKE
+  -------------
+    • Species: BKTR, Number: -, Size: 19cm 3N, Date: between May 23 - June 15th even years only
+    • Species: RNTR, Number: 6400, Size: 20cm 3N, Date: between May 23 - June 15th
+
+
+================================================================================
+REGION: ST. PAUL
+================================================================================
+
+  ELK POINT POND
+  ----------------
+    • Species: RNTR, Number: 900, Size: 20cm 3N, Date: before May 23rd
+    • Species: BKTR, Number: 500, Size: 19cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 150, Size: 20cm 3N, Date: before May 23rd
+
+  LAC DELORME
+  -------------
+    • Species: RNTR, Number: -, Size: 20cm 2N, Date: water quality issues stocking suspended at this time
+
+  ST. PAUL FISH POND
+  --------------------
+    • Species: RNTR, Number: 1800, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 300, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 600, Size: 20cm 2N, Date: between September 15-30th
+
+
+================================================================================
+REGION: STETTLER
+================================================================================
+
+  BOEHLKE'S POND
+  ----------------
+    • Species: RNTR, Number: -, Size: 20cm 2N, Date: stocking suspended 
+
+  KERBE'S POND
+  --------------
+    • Species: BNTR, Number: 250, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1000, Size: 23cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+  TEES TROUT POND
+  -----------------
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: STONY PLAIN
+================================================================================
+
+  CARDIFF PARK POND
+  -------------------
+    • Species: RNTR, Number: 11500, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 2550, Size: 20cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 500, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: between September 15-30th
+
+  CHICKAKOO LAKE
+  ----------------
+    • Species: RNTR, Number: -, Size: 20cm 2N, Date: poor water quality stocking suspended
+
+  EAST PIT LAKE
+  ---------------
+    • Species: RNTR, Number: 11600, Size: 20cm 2N, Date: before May 23rd
+
+  HASSE LAKE
+  ------------
+    • Species: RNTR, Number: 10000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 1500, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 500, Size: 23cm 3N, Date: between September 15-30th
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: between September 15-30th
+
+  HERITAGE POND (Morinville Lake)
+  ---------------------------------
+    • Species: BKTR, Number: 1600, Size: 19cm 3N, Date: before May 23rd
+    • Species: BNTR, Number: 1000, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 2000, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 2050, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 3000, Size: 20cm 3N, Date: between September 15-30th
+
+  HERMITAGE LAKE
+  ----------------
+    • Species: BNTR, Number: 300, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 2395, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 2300, Size: 20cm 3N, Date: btw June 1 - June 15th
+
+  LEGAL RESERVOIR
+  -----------------
+    • Species: RNTR, Number: 1150, Size: 20cm 3N, Date: before May 23rd
+
+  MORINVILLE FISH AND GAME POND
+  -------------------------------
+    • Species: BNTR, Number: 100, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1425, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: between September 15-30th
+
+  MUIR LAKE
+  -----------
+    • Species: BNTR, Number: 500, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1500, Size: 23cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1500, Size: 23cm 3N, Date: before May 23rd
+
+  SALTER'S LAKE
+  ---------------
+    • Species: RNTR, Number: 7500, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 2000, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: between September 15-30th 
+
+  SAUER LAKE
+  ------------
+    • Species: RNTR, Number: 6000, Size: 20cm 2N, Date: before May 23rd
+
+  SPRING LAKE
+  -------------
+    • Species: BNTR, Number: 500, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 10000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 1500, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: between September 15-30th
+
+  STAR LAKE
+  -----------
+    • Species: BNTR, Number: 1000, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 8040, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: STRATHMORE
+================================================================================
+
+  KINSMEN LAKE
+  --------------
+    • Species: RNTR, Number: 1500, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 150, Size: 20cm 3N, Date: before May 23rd
+
+  SEVERN CREEK RESERVOIR
+  ------------------------
+    • Species: RNTR, Number: 1400, Size: 23cm 2N, Date: before May 23rd
+    • Species: RNTR, Number: 4200, Size: 20cm 2N, Date: before May 23rd
+
+
+================================================================================
+REGION: SUNDRE
+================================================================================
+
+  BEAVER LAKE
+  -------------
+    • Species: RNTR, Number: 2500, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 1000, Size: 23cm 3N, Date: between September 15-30th
+
+  BIRCH LAKE
+  ------------
+    • Species: BKTR, Number: 5000, Size: 19cm 3N, Date: before June 1st
+    • Species: BNTR, Number: 500, Size: 19cm 3N, Date: before June 1st
+    • Species: RNTR, Number: 3500, Size: 20cm 3N, Date: before June 1st
+
+  EAGLE LAKE
+  ------------
+    • Species: CTTR, Number: 750, Size: 20cm 2N, Date: between September 15th - October 15th
+
+  FIESTA LAKE
+  -------------
+    • Species: RNTR, Number: 550, Size: 20cm 3N, Date: between May 15- June 1st
+
+  ICE LAKE
+  ----------
+    • Species: CTTR, Number: 500, Size: 6cm 2N, Date: between September 15th - October 15th
+
+  WINCHELL LAKE
+  ---------------
+    • Species: RNTR, Number: 4000, Size: 20cm 3N, Date: between May 15- June 1st
+    • Species: RNTR, Number: 2000, Size: 20cm 3N, Date: between September 15th - October 15th
+
+  YELLOWHEAD LAKE
+  -----------------
+    • Species: BKTR, Number: 4000, Size: 19cm 3N, Date: between May 23 - June 15th
+
+
+================================================================================
+REGION: SWAN HILLS
+================================================================================
+
+  MARIGOLD LAKE
+  ---------------
+    • Species: BKTR, Number: 7000, Size: 11cm 3N, Date: between June 1 - 15 
+
+  SCHUMAN LAKE
+  --------------
+    • Species: RNTR, Number: 9500, Size: 20cm 2N, Date: between May 15 - June 1
+    • Species: TGTR, Number: 500, Size: 20cm 3N, Date: between May 15 - June 1
+
+  TAMARACK LAKE
+  ---------------
+    • Species: RNTR, Number: 8000, Size: 8cm 3N, Date: between September 15-30th
+
+
+================================================================================
+REGION: SYLVAN LAKE
+================================================================================
+
+  HANSENS RESERVOIR
+  -------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: between September 15-30th
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: St. PAUL
+================================================================================
+
+  ST. PAUL FISH POND
+  --------------------
+    • Species: BNTR, Number: 400, Size: 19cm 3N, Date: between September 15-30th
+
+
+================================================================================
+REGION: TABER
+================================================================================
+
+  FOREMOST RESERVOIR
+  --------------------
+    • Species: RNTR, Number: 1500, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: between September 15-30th
+
+  TABER TROUT POND
+  ------------------
+    • Species: RNTR, Number: 2500, Size: 20cm 3N, Date: between June 1 - June 15th
+    • Species: RNTR, Number: 2500, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 50, Size: 30cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: TWO HILLS
+================================================================================
+
+  TWO HILLS TROUT POND
+  ----------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd water level dependent
+
+
+================================================================================
+REGION: VALLEYVIEW
+================================================================================
+
+  DOLLAR LAKE (WEST)
+  --------------------
+    • Species: BNTR, Number: 500, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+  DOLLAR LAKES (EAST)
+  ---------------------
+    • Species: BNTR, Number: 500, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 3000, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 300, Size: 20cm 3N, Date: before May 23rd
+
+  MCCLENNAN RESERVOIR
+  ---------------------
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: before May 23rd
+
+  SWAN LAKE
+  -----------
+    • Species: RNTR, Number: 15000, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 15000, Size: 20cm 3N, Date: between September 15-30th
+
+  VALLEYVIEW CHILDREN'S POND
+  ----------------------------
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: VEGREVILLE
+================================================================================
+
+  BLACK NUGGET MINE PIT
+  -----------------------
+    • Species: RNTR, Number: 12500, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 5000, Size: 20cm 3N, Date: before May 23rd
+
+  INNISFREE TROUT POND
+  ----------------------
+    • Species: BKTR, Number: 600, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 400, Size: 20cm 3N, Date: before May 23rd
+
+  VEGREVILLE CHILDRENS POND
+  ---------------------------
+    • Species: RNTR, Number: 600, Size: 20cm 3N, Date: before May 23rd
+
+  VEGREVILLE TROUT POND
+  -----------------------
+    • Species: RNTR, Number: 10000, Size: 20cm 2N, Date: before May 23rd
+
+
+================================================================================
+REGION: VERMILION
+================================================================================
+
+  CLAUDE BRENNAN MEMORIAL PARK POND
+  -----------------------------------
+    • Species: RNTR, Number: 1250, Size: 20cm 3N, Date: before May 23rd
+
+  IRMA FISH AND GAME POND
+  -------------------------
+    • Species: BKTR, Number: 300, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 200, Size: 20cm 3N, Date: before May 23rd
+
+  JACK FISH LAKE
+  ----------------
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: before May 23rd
+    • Species: TGTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: VIKING
+================================================================================
+
+  CASTAWAY POND
+  ---------------
+    • Species: RNTR, Number: 1100, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 30, Size: 30cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: WAINWRIGHT
+================================================================================
+
+  SHUSTER LAKE
+  --------------
+    • Species: BKTR, Number: 5500, Size: 19cm 3N, Date: between May 15 - June 1
+
+  WALLACE PARK POND
+  -------------------
+    • Species: RNTR, Number: 500, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: WESTLOCK
+================================================================================
+
+  RAINBOW PARK POND
+  -------------------
+    • Species: RNTR, Number: 1200, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: WETASKIWIN
+================================================================================
+
+  ASHLAND RESERVOIR
+  -------------------
+    • Species: RNTR, Number: 8000, Size: 20cm 2N, Date: before May 23rd
+
+  BY THE LAKE PARK
+  ------------------
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: before May 23rd
+
+  DON SPARROW POND (Beaumont Pond)
+  ----------------------------------
+    • Species: BNTR, Number: 241, Size: 19cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1000, Size: 20cm 3N, Date: before May 23rd
+    • Species: TGTR, Number: 200, Size: 20cm 3N, Date: before May 23rd
+
+  GENESEE TROUT POND
+  --------------------
+    • Species: RNTR, Number: 500, Size: 23cm 3N, Date: before May 23rd
+
+  KRAMER POND
+  -------------
+    • Species: RNTR, Number: 3500, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 1500, Size: 20cm 3N, Date: between September 15-30th
+
+  LEDUC RESERVOIR
+  -----------------
+    • Species: RNTR, Number: 5000, Size: 20cm 2N, Date: before May 23rd
+
+  MOUND RED RESERVOIR
+  ---------------------
+    • Species: RNTR, Number: 3000, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 50, Size: 30cm 3N, Date: before May 23rd
+
+  WETASKIWIN POND
+  -----------------
+    • Species: RNTR, Number: 150, Size: 20cm 3N, Date: before May 23rd
+    • Species: BKTR, Number: 250, Size: 19cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION: WHITECOURT
+================================================================================
+
+  EMERALD LAKE
+  --------------
+    • Species: BKTR, Number: 2600, Size: 19cm 3N, Date: between May 23 - June 15th
+
+  MCLEOD LAKE
+  -------------
+    • Species: RNTR, Number: 33900, Size: 20cm 3N, Date: before May 23rd
+    • Species: RNTR, Number: 61500, Size: 16cm 3N, Date: before June 1
+    • Species: RNTR, Number: 45000, Size: 20cm 3N, Date: between September 15-30th
+
+  WHITECOURT TOWN POND
+  ----------------------
+    • Species: RNTR, Number: 1500, Size: 23cm 3N, Date: before May 23rd
+
+  WHITERIDGE RECREATIONAL AREA POND
+  -----------------------------------
+    • Species: RNTR, Number: 2100, Size: 20cm 3N, Date: before May 23rd
+
+
+================================================================================
+REGION:  
+================================================================================
+
+  TOTAL PLANNED STOCKING 2025
+  -----------------------------
+    • Species:  , Number: 1922096, Size:  , Date:  
+
+
+================================================================================
+REGION: Unknown Region
+================================================================================
+
+  BKTR - Brook Trout
+  --------------------
+
+  BNTR - Brown Trout
+  --------------------
+
+  CTTR - Cutthroat Trout
+  ------------------------
+
+  NOTE: Please refer to stocking list for actual date stocked during the stocking season
+  ----------------------------------------------------------------------------------------
+
+  RNTR - Rainbow Trout
+  ----------------------
+
+  TGTR - Tiger Trout
+  --------------------
+
+
+================================================================================
+Total entries: 513
+================================================================================
